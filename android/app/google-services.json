@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255659960868",
+    "firebase_url": "https://technical-task-app-baec7.firebaseio.com",
+    "project_id": "technical-task-app-baec7",
+    "storage_bucket": "technical-task-app-baec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255659960868:android:d80296ad78ff36bc6306b1",
+        "android_client_info": {
+          "package_name": "com.example.fluttertechnicaltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255659960868-cqdisgukoa48d1mehpnjv56c1fte8jhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2s-NoKY1w4xa9TTLsIY6r1LMG0FRd5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255659960868-cqdisgukoa48d1mehpnjv56c1fte8jhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
